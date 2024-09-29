@@ -4,17 +4,22 @@
 
 ### MANDATORY QUERY COMMANDS SYNTAX
 SELECT
+
 FROM
 
 ### OPTIONAL QUERY COMMANDS SYNTAX
 USE
+
 WHERE
+
 GROUP
+
 HAVING
+
 ORDER BY
 
 
-SELECT the data I want FROM these database and tables WHERE these criteria are met GROUP (BY) this field HAVING this property ORDER (BY) this field or list;
+<strong> SELECT the data I want FROM these database and tables WHERE these criteria are met GROUP (BY) this field HAVING this property ORDER (BY) this field or list; <strong>
 
 <h3>All SQL query commands:</h3><h2>HERE<a>https://dev.mysql.com/doc/refman/5.7/en/keywords.html</a></h2>
 
