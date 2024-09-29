@@ -4,17 +4,22 @@
 
 ### MANDATORY QUERY COMMANDS SYNTAX
 SELECT
+
 FROM
 
 ### OPTIONAL QUERY COMMANDS SYNTAX
 USE
+
 WHERE
+
 GROUP
+
 HAVING
+
 ORDER BY
 
 
-SELECT the data I want FROM these database and tables WHERE these criteria are met GROUP (BY) this field HAVING this property ORDER (BY) this field or list;
+<strong> SELECT the data I want FROM these database and tables WHERE these criteria are met GROUP (BY) this field HAVING this property ORDER (BY) this field or list; <strong>
 
 
 ### Using Jupyter Notebooks
